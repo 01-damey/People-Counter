@@ -1,0 +1,22 @@
+body{
+text-align: center;
+}
+
+#btn-inc{
+    color:white;
+    background-color: brown;
+    font-size:30px;
+    border:none;
+    border-radius: 10px;
+    width:200px;
+    height:50px;
+}
+#btn-save{
+    color:white;
+    background-color: green;
+    font-size:30px;
+    border:none;
+    border-radius: 10px;
+    width:200px;
+    height:50px;
+}
